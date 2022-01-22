@@ -1,6 +1,6 @@
 - 👋 Olá! Meu nome é Sérgio Assunção Monteiro.
-- 👀 Tenho interesses em Otimização, Ciência de Dados, Machine Learning, Séries Temporais, Finanças, Física Quântica e Programação Funcional. 
-- 🌱 Atualmente, estou desenvolvendo aplicações de Visão Computacional, Processamento de Linguagem Natural, Séries Temporais, Programação Convexa e Computação Quântica.
+- 👀 Tenho interesse nas áreas de Otimização, Ciência de Dados, Machine Learning, Séries Temporais, Finanças, Física Quântica e Programação Funcional. 
+- 🌱 Atualmente, estou desenvolvendo aplicações de Visão Computacional, Processamento de Linguagem Natural, Séries Temporais, Construção de Portfólio, Programação Convexa e Computação Quântica.
 - 📫 Você pode entrar em contato comigo pelo e-mail: sergio.assuncao.monteiro@gmail.com
 
 <!---
